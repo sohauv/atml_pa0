@@ -1,0 +1,2 @@
+final_train_loss,final_train_acc,final_val_loss,final_val_acc,test_loss,test_acc
+0.4808034426821603,0.8354222222222222,0.4712001925468445,0.8432,0.47779741640090945,0.839
