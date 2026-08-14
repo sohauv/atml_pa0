@@ -1,0 +1,5 @@
+model,test_loss,test_acc
+Pretrained - Final Block,0.29248826501369474,0.91
+Pretrained - Full Backbone,0.11749958478286862,0.9619
+Random - Final Block,1.7664554319381713,0.3683
+Random - Full Backbone,1.134114735031128,0.6046
