@@ -1,0 +1,4 @@
+image,prediction,confidence
+bird.jpg,"brambling, Fringilla montifringilla",0.15287213027477264
+car.jpg,"sports car, sport car",0.45771634578704834
+dog.jpg,"Eskimo dog, husky",0.6591929793357849
