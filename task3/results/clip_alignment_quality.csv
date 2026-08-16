@@ -1,0 +1,3 @@
+condition,mean_paired_cosine_similarity,std_paired_cosine_similarity
+Before alignment,0.26611328,0.021133423
+After alignment,0.86198384,0.047954667

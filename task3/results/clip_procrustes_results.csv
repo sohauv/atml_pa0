@@ -1,0 +1,3 @@
+condition,test_accuracy
+Original CLIP,0.973625
+Procrustes aligned,0.9785

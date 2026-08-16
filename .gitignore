@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 task1/data/
+task3/data/
 
 # Virtual environments
 .venv
