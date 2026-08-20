@@ -1,0 +1,4 @@
+condition,test_accuracy,accuracy_drop
+Original,0.9627,0.0
+Random 25% masking,0.9174,0.04530000000000001
+Center 25% masking,0.7702,0.1925
